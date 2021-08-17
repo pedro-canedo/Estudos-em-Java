@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "SomaSwing/Source Packages/com.cursoemvide.soma",
+        "RelogioSwing/Source Packages",
+        "SomaSwing/Source Packages/com.cursoemvideo.soma"
+    ]
+}
