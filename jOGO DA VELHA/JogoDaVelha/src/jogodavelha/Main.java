@@ -60,7 +60,7 @@ public class Main {
             
         }//***************************************
         
-        System.out.println("O "+Jogo.Ganhou(jogadas)+"Venceu");
+        System.out.println("O "+Jogo.Ganhou(jogadas)+" Venceu");
         
     }
     
