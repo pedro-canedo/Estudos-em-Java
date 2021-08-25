@@ -18,6 +18,7 @@ public class contador {
             fila.add(i);
         for(int i = 0;i < 10; i++)
             fila.remove();
+            System.out.println(fila);
         if(fila.isEmpty())
             System.out.println("A fila está vazia! ");
         else
