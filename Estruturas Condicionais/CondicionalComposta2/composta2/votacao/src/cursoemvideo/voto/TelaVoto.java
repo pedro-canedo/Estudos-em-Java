@@ -87,13 +87,12 @@ public class TelaVoto extends javax.swing.JFrame {
         int i = 2021 - a;
         if (i < 16){
             lblR.setText("Não vota !");
-        } else {
-            if((i >= 16 && i<18) || (i > 70)) {
+        } else if((i >= 16 && i<18) || (i > 70)) {
                 lblR.setText("Voto Opicional");
             } else {
                     lblR.setText("Voto Obrigatório");
             }
-        }
+        
     }//GEN-LAST:event_btnVotoActionPerformed
 
     /**
