@@ -19,7 +19,7 @@ public class App {
             case 2:
                 System.out.println("Jogador escolheu Tesoura");
                 break;
-            case 3:
+            case 3:0,
                 System.out.println("Jogador escolheu Tesoura");
                 break;
             default:
