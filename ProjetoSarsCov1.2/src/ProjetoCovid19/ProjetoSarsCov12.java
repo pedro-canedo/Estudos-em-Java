@@ -1,5 +1,3 @@
-package ProjetoCovid19;
-
 import javax.swing.JOptionPane;
 
 /**
