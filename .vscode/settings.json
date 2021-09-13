@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "RelogioSwing/Source Packages",
-        "Estruturas Condicionais/CondicionalComposta2/composta2/src"
+        "Estruturas Condicionais/CondicionalComposta2/composta2/src",
+        "ProjetoSarsCov1.2/src/ProjetoCovid19"
     ]
 }
