@@ -1,11 +1,6 @@
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Pedro Augusto
- */
 public class ProjetoSarsCov12 {
-
 
     public static void main(String[] args) {
         String entrada = "";
@@ -46,6 +41,8 @@ public class ProjetoSarsCov12 {
             if (espDengue == 0 && espCovid == 0) {
                 JOptionPane.showMessageDialog(null, "<html><strong><center>Provavelmente você está com Influenza! <p>Procure um Médico</p></strong></center></html>");
             }
+        } else {
+            JOptionPane.showMessageDialog(null, "<html><strong><center>Diagóstico incloncusivo <p>Procure um Médico</p></strong></center></html>");
         }
     }
 }
